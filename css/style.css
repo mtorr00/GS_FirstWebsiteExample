@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background-color: silver;
+    font-size: large;
+}
+h3 {
+    text-align: center;
+    color: darkslateblue;
+    border-style: 10px blueviolet;
+}
+p {
+    color:aliceblue;
+}
+
+.paragraphareas {
+    border-radius: 5px;
+    background-color: darkslateblue;
+    margin:5px;
+}
+
+@font-face {
+    font-family: weirdFont;
+    src: url(./fonts/RubikMarkerHatch-Regular.ttf);
+}
+
+.newfont{
+    font-family: weirdFont, 'Courier New', Courier, monospace;
+}
+
+.blog {
+    font-family:'Courier New', Courier, monospace;
+    background-color: black;
+}
+
+.p2 {
+    border-top: 2px whitesmoke solid;
+    border-bottom: 2px whitesmoke solid;
+    margin-bottom: 100px;
+}
+
+h2 {
+    color:cornsilk;
+}
+.smli {
+    margin-bottom:40px;
+}
